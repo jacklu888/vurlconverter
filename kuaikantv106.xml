@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.3.120</Version>
+    <Version>1.3.121</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -18,7 +18,7 @@
     <useConfigRate>657,20,20,300,1,1,1</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
-    <UseGeoMask>1</UseGeoMask>
+    <UseGeoMask>2</UseGeoMask>
     <loadPlayerAdFull_ip>30</loadPlayerAdFull_ip>
     <loadPlayerAdFull_ipad>30</loadPlayerAdFull_ipad>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
