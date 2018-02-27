@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.3.160</Version>
+    <Version>1.3.107</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
-    <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.8.0</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>1</reloadTime>
-    <nofreshTime>1</nofreshTime>
-    <loadOpenAdRate_ip>0</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0</loadOpenAdRate_ipad>
-    <loadPlayerAdRate_ipad>20</loadPlayerAdRate_ipad>
-    <loadPlayerAdRate_ip>20</loadPlayerAdRate_ip>
-    <useConfigRate>657,20,20,300,1,1,1</useConfigRate>
+    <reloadTime>5</reloadTime>
+    <nofreshTime>5</nofreshTime>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
-    <UseGeoMask>2</UseGeoMask>
-    <loadPlayerAdFull_ip>30</loadPlayerAdFull_ip>
-    <loadPlayerAdFull_ipad>30</loadPlayerAdFull_ipad>
+    <useGeoMask>0</useGeoMask>
+    <UI100>1</UI100>
+    <AD101>1000,0</AD101>
+    <AD102>1000,0</AD102>
+    <AD103>1000,0</AD103>
+    <AD105>20</AD105>
+    <AD110>1000,0</AD110>
+    <AD111>0</AD111>
+    <AD112>10</AD112>
+    <AD113>0</AD113>
+    <AD114>0</AD114>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
-    <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
     <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhocHktJb/Y1wDMCc17iBrNi+dujTEXzFSDy5/5ki71v320IXHwHvhRe7lu6MDrfQMggOmCKVvrxUB/w8DPBF0rVRyH3neV1nBU0UNbTIKsAuF1wOEYLrf0wrOMCQkYI3aVVoa1YZCl/0rq+H2Ej+ZrDGAzpz3sK55kwhEhV0N4B1YsEVoQHMV3h6RhM2ii0QaIFRYg/NTjVO09XngHkJJGngyN+IcBFoIw2ixXDFji/0</IPAddressInfoURL>
-    <Ads>
-        <AdsRate Name="AdsMogo">1</AdsRate>
-        <AdsRate Name="AdsMobiSage">0</AdsRate>
-        <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">18</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">18</AdsRate>
-    </Ads>
-    
+   
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
         <appVersion>1.0.6</appVersion>
         <info>
-            <valid>1</valid>
-            <frequency>100</frequency>
+            <valid>0</valid>
+            <frequency>200</frequency>
         </info>
     </Tips>
-    
     <Channel name="热门" type="33">
         <SubChannel iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－高清" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港" l="hunan">
             <streamURL>cnPSxFsgBidLANQ9LdsuF7jgMd4XI0uDjBoSAofY0vM51wog8XLdMzkWZfzKn12cpy+D7PO8GvBFBpKQZ8mvqg==</streamURL>
